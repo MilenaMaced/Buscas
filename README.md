@@ -8,12 +8,21 @@ manipular a mesma.
 
 ## Buscas que foram feitas
 ### Busca 3
--Descrição
+- Descrição
 Top 10 de vendas por plataforma para uma determinada região.
--Acesso
+- Acesso
 Gerente
--Restrição de Implementação
+- Restrição de Implementação
 Utilize a estrutura de lista.
-Gráfico de pontos.
+- Gráfico de pontos.
 ### Busca 4
--
+- Descrição
+Média de vendas de acordo com um determinado gênero dos jogos vendidos em
+NA, EU, JP, outros e global.
+- Acesso
+Gerente
+- Restrição de Implementação
+Utilize recursidade.
+- Gráfico 
+Pizza
+
